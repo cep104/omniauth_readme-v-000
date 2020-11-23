@@ -9,3 +9,5 @@
 9. make a users model with attributes
 10. add route to routes file for session
 11. make a sessions controller 
+12. fill in views and sessions controller with info from readme
+13. test it out! 
